@@ -1,0 +1,8 @@
+[Adblock Plus 2.0]
+
+# Football
+tinyurl.is##section
+1stream.top##iframe##a##div.player-poster
+givemenbastreams.com##iframe#a#div#overlayer
+weakstreams.com,newbeefking.com,hockeyweb.live,myoplay.club,techoreels.com,allsportsdaily.co##iframe#a
+# --
