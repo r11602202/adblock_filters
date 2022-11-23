@@ -2,7 +2,7 @@
 
 # Football
 tinyurl.is,tinyurl.so##section,a:not([href])
-1stream.top,1stream.link##iframe##a##div.player-poster
-givemenbastreams.com##iframe#a#div#overlayer
-weakstreams.com,newbeefking.com,hockeyweb.live,myoplay.club,techoreels.com,allsportsdaily.co##iframe#a
+1stream.top,1stream.link##iframe,a,div.player-poster,in-page-message,div#ni-overlay
+givemenbastreams.com##iframe,a,div#overlayer
+weakstreams.com,newbeefking.com,hockeyweb.live,myoplay.club,techoreels.com,allsportsdaily.co##iframe,a
 # --
